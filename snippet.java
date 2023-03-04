@@ -3,7 +3,3 @@ class Main {
     System.out.println("Hello world!");
   }
 }
-
-// running the program
-// javac second.java
-// java second.java
